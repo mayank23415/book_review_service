@@ -120,8 +120,3 @@ Test coverage includes:
 Email: mayank23415@example.com  
 GitHub: [github.com/mayank23415](https://github.com/mayank23415)
 
----
-
-## License
-
-This project is licensed under the MIT License.
